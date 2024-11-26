@@ -51,7 +51,7 @@ You don't have to eject unless you need to customize the build tool. For most pr
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/Ihshan2732/Portfolio/tree/main
     ```
 
 2. Install the dependencies:
