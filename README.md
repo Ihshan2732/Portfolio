@@ -1,7 +1,7 @@
 Here is a suitable `README.md` file based on your provided information, 
 formatted and structured to provide a clear understanding of the project:
 
-#My React Project
+# My React Project
 
 This project was created with [Create React App](https://github.com/facebook/create-react-app), 
 a tool that sets up a modern web app by providing a fully functional React project with a good default configuration.
